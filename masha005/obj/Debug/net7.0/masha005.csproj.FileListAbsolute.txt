@@ -1,0 +1,15 @@
+C:\Users\Привет\Desktop\l\lesson3.1\masha005\bin\Debug\net7.0\masha005.exe
+C:\Users\Привет\Desktop\l\lesson3.1\masha005\bin\Debug\net7.0\masha005.deps.json
+C:\Users\Привет\Desktop\l\lesson3.1\masha005\bin\Debug\net7.0\masha005.runtimeconfig.json
+C:\Users\Привет\Desktop\l\lesson3.1\masha005\bin\Debug\net7.0\masha005.dll
+C:\Users\Привет\Desktop\l\lesson3.1\masha005\bin\Debug\net7.0\masha005.pdb
+C:\Users\Привет\Desktop\l\lesson3.1\masha005\obj\Debug\net7.0\masha005.csproj.AssemblyReference.cache
+C:\Users\Привет\Desktop\l\lesson3.1\masha005\obj\Debug\net7.0\masha005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Привет\Desktop\l\lesson3.1\masha005\obj\Debug\net7.0\masha005.AssemblyInfoInputs.cache
+C:\Users\Привет\Desktop\l\lesson3.1\masha005\obj\Debug\net7.0\masha005.AssemblyInfo.cs
+C:\Users\Привет\Desktop\l\lesson3.1\masha005\obj\Debug\net7.0\masha005.csproj.CoreCompileInputs.cache
+C:\Users\Привет\Desktop\l\lesson3.1\masha005\obj\Debug\net7.0\masha005.dll
+C:\Users\Привет\Desktop\l\lesson3.1\masha005\obj\Debug\net7.0\refint\masha005.dll
+C:\Users\Привет\Desktop\l\lesson3.1\masha005\obj\Debug\net7.0\masha005.pdb
+C:\Users\Привет\Desktop\l\lesson3.1\masha005\obj\Debug\net7.0\masha005.genruntimeconfig.cache
+C:\Users\Привет\Desktop\l\lesson3.1\masha005\obj\Debug\net7.0\ref\masha005.dll
